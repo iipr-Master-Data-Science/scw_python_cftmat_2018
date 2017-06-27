@@ -1,2 +1,2 @@
-# files-2016-06-27-cfmehu
-Files for the 2016-06-27-cfmehu Software Carpentry Workshop
+# files-2017-06-28-cfmehu
+Files for the 2017-06-28-cfmehu Software Carpentry Workshop

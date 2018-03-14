@@ -1,3 +1,3 @@
-# files-2017-06-28-cfmehu
+# files-2018-03-15-lund
 
-Files for the 2017-06-28-cfmehu Software Carpentry Workshop
+Files for the 2018-03-15-lund Software Carpentry Workshop

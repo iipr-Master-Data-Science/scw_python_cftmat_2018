@@ -1,3 +1,3 @@
-# files-2018-11-29-icmat
+# files-2018-11-29-cftmat
 
-Files for the 2018-11-19-icmat Software Carpentry Workshop
+Files for the 2018-11-29-cftmat Software Carpentry Workshop
